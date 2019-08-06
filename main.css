@@ -8,7 +8,7 @@ h1 {
   text-align: center;
   }
 
-.bodybox {
+#bodybox {
   border-style: solid;
   border-colour: darkgreen;
   width: 50%;
